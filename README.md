@@ -1,7 +1,8 @@
 # Landslide-Susceptibility-Analysis
 
-Author: Maria Pinto
-Study Area: Near the border of Uganda and the Democratic Republic of the Congo, encompassing parts of the Albertine Rift and Rwenzori Mountains.
+### Author: Maria Pinto
+
+### Study Area: Near the border of Uganda and the Democratic Republic of the Congo, encompassing parts of the Albertine Rift and Rwenzori Mountains.
  
 ## Introduction
 This report presents a landslide susceptibility analysis for a mountainous region known for its complex terrain and geological activity. The goal is to identify areas at risk of landslides to inform mitigation strategies and enhance public safety.
