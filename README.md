@@ -7,13 +7,13 @@ Study Area: Near the border of Uganda and the Democratic Republic of the Congo, 
 This report presents a landslide susceptibility analysis for a mountainous region known for its complex terrain and geological activity. The goal is to identify areas at risk of landslides to inform mitigation strategies and enhance public safety.
 
 ## Data and Methods
-* •	Digital Elevation Model (DEM): A high-resolution DEM (N01E023.hgt) was used to represent the terrain's elevation.
-•	Slope Calculation:
-o	Rationale: Slope steepness directly affects the gravitational forces acting on a slope. Steeper slopes are generally more susceptible to landslides.
-o	Method: Calculated using the gradient of the DEM and converting to degrees.
-•	Aspect Calculation:
-o	Rationale: The orientation of slopes can influence moisture levels, vegetation, and weathering processes.
-o	Method: Determined using the arctangent of the gradient components, adjusted to compass directions.
+* Digital Elevation Model (DEM): A high-resolution DEM (N01E023.hgt) was used to represent the terrain's elevation.
+* Slope Calculation:
+  	Rationale: Slope steepness directly affects the gravitational forces acting on a slope. Steeper slopes are generally more susceptible to landslides.
+   Method: Calculated using the gradient of the DEM and converting to degrees.
+*	Aspect Calculation:
+   Rationale: The orientation of slopes can influence moisture levels, vegetation, and weathering processes.
+ 	 Method: Determined using the arctangent of the gradient components, adjusted to compass directions.
 •	Curvature Calculation:
 o	Rationale: Curvature indicates the shape of the slope (convex or concave). Convex slopes (positive curvature) are more prone to failures due to the outward bending of materials.
 o	Method: Computed using second-order derivatives of the smoothed DEM.
