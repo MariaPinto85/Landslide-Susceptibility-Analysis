@@ -9,8 +9,8 @@ This report presents a landslide susceptibility analysis for a mountainous regio
 ## Data and Methods
 * Digital Elevation Model (DEM): A high-resolution DEM (N01E023.hgt) was used to represent the terrain's elevation.
 * Slope Calculation:
-  	Rationale: Slope steepness directly affects the gravitational forces acting on a slope. Steeper slopes are generally more susceptible to landslides.
-   Method: Calculated using the gradient of the DEM and converting to degrees.
+  	* Rationale: Slope steepness directly affects the gravitational forces acting on a slope. Steeper slopes are generally more susceptible to landslides.
+   * Method: Calculated using the gradient of the DEM and converting to degrees.
 *	Aspect Calculation:
    Rationale: The orientation of slopes can influence moisture levels, vegetation, and weathering processes.
  	 Method: Determined using the arctangent of the gradient components, adjusted to compass directions.
