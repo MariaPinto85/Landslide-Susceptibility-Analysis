@@ -12,8 +12,8 @@ This report presents a landslide susceptibility analysis for a mountainous regio
   	* Rationale: Slope steepness directly affects the gravitational forces acting on a slope. Steeper slopes are generally more susceptible to landslides.
    * Method: Calculated using the gradient of the DEM and converting to degrees.
 *	Aspect Calculation:
-   * Rationale: The orientation of slopes can influence moisture levels, vegetation, and weathering processes.
- 	 * Method: Determined using the arctangent of the gradient components, adjusted to compass directions.
+  * Rationale: The orientation of slopes can influence moisture levels, vegetation, and weathering processes.
+ 	* Method: Determined using the arctangent of the gradient components, adjusted to compass directions.
 * Curvature Calculation:
   * Rationale: Curvature indicates the shape of the slope (convex or concave). Convex slopes (positive curvature) are more prone to failures due to the outward bending of materials.
   * Method: Computed using second-order derivatives of the smoothed DEM.
